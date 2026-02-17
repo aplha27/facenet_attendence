@@ -1,0 +1,88 @@
+{% extends "layout.html" %}
+{% block content %}
+	<div class="row" style="margin-top: 50px;">
+		<div class="col-md-6 offset-md-3 text-center">
+            <h3>Live Attendance</h3>
+			<div class="card">
+				<div class="card-body">
+                    <!-- Video Element for Webcam Feed -->
+					<video id="video" width="100%" height="auto" autoplay playsinline style="border: 1px solid #ccc; border-radius: 5px; transform: scaleX(-1);"></video>
+					<canvas id="canvas" style="display:none;"></canvas>
+				</div>
+			</div>
+ 		</div>
+    </div>
+
+    <div class="row" style="margin-top: 20px;">
+ 		<div class="col-md-12 text-center">
+ 			<button class="btn btn-primary btn-lg" id="snap" type="button">
+                <i class="fa fa-camera"></i> Recognize & Mark Attendance
+            </button>
+            <p id="status" class="mt-2 text-muted">Ready to scan...</p>
+ 		</div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>   
+	<script type="text/javascript">
+        // Access webcam
+        const video = document.getElementById('video');
+        const canvas = document.getElementById('canvas');
+        const snap = document.getElementById('snap');
+        const status = document.getElementById('status');
+
+        // Request camera access
+        if (navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
+            navigator.mediaDevices.getUserMedia({ video: true }).then(function(stream) {
+                video.srcObject = stream;
+                video.play();
+            }).catch(function(error) {
+                console.error("Error accessing webcam:", error);
+                status.innerText = "Error: Cannot access webcam. Please verify permissions.";
+                status.className = "mt-2 text-danger";
+            });
+        } else {
+            status.innerText = "Error: Your browser does not support webcam access.";
+            status.className = "mt-2 text-danger";
+        }
+
+		$("#snap").click(function(){
+            status.innerText = "Capturing and processing...";
+            status.className = "mt-2 text-info";
+            
+            // Draw video frame to canvas
+            const context = canvas.getContext('2d');
+            canvas.width = video.videoWidth;
+            canvas.height = video.videoHeight;
+            context.drawImage(video, 0, 0, canvas.width, canvas.height);
+
+            // Convert canvas to blob
+            canvas.toBlob(function(blob) {
+                if (!blob) {
+                    status.innerText = "Error: Failed to capture image.";
+                    return;
+                }
+
+                var formdata = new FormData();
+                // 'image' key matches the Expected key in routes.py request.files['image']
+                formdata.append("image", blob, "capture.jpg");
+
+                $.ajax({
+                    url: "{{ url_for('face_recog') }}",
+                    type: "POST",
+                    data: formdata,
+                    processData: false,
+                    contentType: false,
+                    success: function(response) {
+                        // Reload page to show flash messages from server (which verify attendance)
+                        window.location.reload();
+                    },
+                    error: function(xhr, status, error) {
+                        console.error("Upload error:", error);
+                        document.getElementById('status').innerText = "Error uploading image to server.";
+                        document.getElementById('status').className = "mt-2 text-danger";
+                    }
+                });
+            }, 'image/jpeg');
+		});
+    </script>	
+{% endblock content %}

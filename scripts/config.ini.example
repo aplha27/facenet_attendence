@@ -1,0 +1,19 @@
+[database]
+url = sqlite:///attendance.db
+
+[paths]
+upload_directory = uploads
+model_directory = attendance/facenet/src/20180402-114759
+reports_directory = reports
+
+[security]
+allowed_file_types = jpg,jpeg,png,bmp
+max_file_size = 10485760
+secret_key = your-secret-key-here
+
+[face_recognition]
+detection_threshold = 0.6
+recognition_threshold = 0.43
+
+[app]
+debug = False

@@ -1,0 +1,7 @@
+arguments: D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\src\align\align_dataset_mtcnn.py D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\raw D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned --image_size 160 --margin 32
+--------------------
+tensorflow version: 2.20.0
+--------------------
+git hash: b''
+--------------------
+b''

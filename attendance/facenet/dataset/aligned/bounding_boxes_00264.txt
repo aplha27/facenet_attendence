@@ -1,0 +1,52 @@
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\akshaya,n\akshaya - Copy (10).png 214 50 359 231
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\akshaya,n\akshaya - Copy (2).png 214 50 359 231
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\akshaya,n\akshaya - Copy (3).png 214 50 359 231
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\akshaya,n\akshaya - Copy (4).png 214 50 359 231
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\akshaya,n\akshaya - Copy (5).png 214 50 359 231
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\akshaya,n\akshaya - Copy (6).png 214 50 359 231
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\akshaya,n\akshaya - Copy (7).png 214 50 359 231
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\akshaya,n\akshaya - Copy (8).png 214 50 359 231
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\akshaya,n\akshaya - Copy (9).png 214 50 359 231
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\akshaya,n\akshaya - Copy.png 214 50 359 231
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\akshaya,n\akshaya.png 214 50 359 231
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\aung\aung-swam-nyi-8OWcgGeB-Rk-unsplash - Copy (2).png 1218 1665 2840 3882
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\aung\aung-swam-nyi-8OWcgGeB-Rk-unsplash - Copy (3).png 1218 1665 2840 3882
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\aung\aung-swam-nyi-8OWcgGeB-Rk-unsplash - Copy (4).png 1218 1665 2840 3882
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\aung\aung-swam-nyi-8OWcgGeB-Rk-unsplash - Copy (5).png 1218 1665 2840 3882
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\aung\aung-swam-nyi-8OWcgGeB-Rk-unsplash - Copy (6).png 1218 1665 2840 3882
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\aung\aung-swam-nyi-8OWcgGeB-Rk-unsplash - Copy (7).png 1218 1665 2840 3882
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\aung\aung-swam-nyi-8OWcgGeB-Rk-unsplash - Copy (8).png 1218 1665 2840 3882
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\aung\aung-swam-nyi-8OWcgGeB-Rk-unsplash - Copy.png 1218 1665 2840 3882
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\aung\aung-swam-nyi-8OWcgGeB-Rk-unsplash.png 1218 1665 2840 3882
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\aung\aung.png 1218 1665 2840 3882
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\saka\saka (10).png 884 931 2708 3376
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\saka\saka (2).png 884 931 2708 3376
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\saka\saka (3).png 884 931 2708 3376
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\saka\saka (4).png 884 931 2708 3376
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\saka\saka (5).png 884 931 2708 3376
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\saka\saka (6).png 884 931 2708 3376
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\saka\saka (7).png 884 931 2708 3376
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\saka\saka (8).png 884 931 2708 3376
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\saka\saka (9).png 884 931 2708 3376
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\saka\saka.png 884 931 2708 3376
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\viswas\WhatsApp Image 2026-01-04 at 10.44.59_0f49d7b3 - Copy (2) - Copy.png 222 321 569 756
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\viswas\WhatsApp Image 2026-01-04 at 10.44.59_0f49d7b3 - Copy (2).png 222 321 569 756
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\viswas\WhatsApp Image 2026-01-04 at 10.44.59_0f49d7b3 - Copy (3) - Copy.png 222 321 569 756
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\viswas\WhatsApp Image 2026-01-04 at 10.44.59_0f49d7b3 - Copy (3).png 222 321 569 756
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\viswas\WhatsApp Image 2026-01-04 at 10.44.59_0f49d7b3 - Copy (4) - Copy.png 222 321 569 756
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\viswas\WhatsApp Image 2026-01-04 at 10.44.59_0f49d7b3 - Copy (4).png 222 321 569 756
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\viswas\WhatsApp Image 2026-01-04 at 10.44.59_0f49d7b3 - Copy (5) - Copy.png 222 321 569 756
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\viswas\WhatsApp Image 2026-01-04 at 10.44.59_0f49d7b3 - Copy (6) - Copy.png 222 321 569 756
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\viswas\WhatsApp Image 2026-01-04 at 10.44.59_0f49d7b3 - Copy.png 222 321 569 756
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\viswas\WhatsApp Image 2026-01-04 at 10.44.59_0f49d7b3.png 222 321 569 756
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\vivek\vv - Copy (10).png 151 196 559 690
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\vivek\vv - Copy (2).png 151 196 559 690
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\vivek\vv - Copy (3).png 151 196 559 690
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\vivek\vv - Copy (4).png 151 196 559 690
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\vivek\vv - Copy (5).png 151 196 559 690
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\vivek\vv - Copy (6).png 151 196 559 690
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\vivek\vv - Copy (7).png 151 196 559 690
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\vivek\vv - Copy (8).png 151 196 559 690
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\vivek\vv - Copy (9).png 151 196 559 690
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\vivek\vv - Copy.png 151 196 559 690
+D:\projects\FaceNet-based-Attendance-System-master\attendance\facenet\dataset\aligned\vivek\vv.png 151 196 559 690
