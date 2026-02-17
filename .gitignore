@@ -71,11 +71,11 @@ reports/*
 *.pth
 *.pt
 
-# Dataset (optional - uncomment if you don't want to commit images)
-# dataset/
-# attendance/facenet/dataset/raw/
-# attendance/facenet/dataset/aligned/
-# attendance/facenet/dataset/test-images/
+# Dataset - exclude all training/aligned images
+dataset/
+attendance/facenet/dataset/raw/
+attendance/facenet/dataset/aligned/
+attendance/facenet/dataset/test-images/
 
 # Temporary files
 *.tmp
